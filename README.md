@@ -1,1 +1,1 @@
-# math_for_dl
+# Math for machine learning and deep learning
